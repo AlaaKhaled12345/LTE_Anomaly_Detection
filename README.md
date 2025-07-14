@@ -78,6 +78,7 @@ Generate interpretive summaries and business insights.
 <img width="1755" height="402" alt="image" src="https://github.com/user-attachments/assets/bcb40f75-eb19-4ab3-9d4f-194a31c547ac" />
 
 
+
 <img width="1755" height="347" alt="image" src="https://github.com/user-attachments/assets/a6de1a4f-09cf-48cd-965e-ac7c6d1de069" />
 
 
