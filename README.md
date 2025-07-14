@@ -78,7 +78,7 @@ Generate interpretive summaries and business insights.
 
 - **Adaptable to other telco environments or KPIs**
 
-  ## 👏 Acknowledgments
+## 👏 Acknowledgments
 - **Supervisors:**
 Dr. Mahmoud Abdel Aziz, Eng. Meriham Rizk
 
