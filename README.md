@@ -72,7 +72,7 @@ Generate interpretive summaries and business insights.
   
   Complete guide covering project approach, modeling details, and results.
 
-- [**Presentation Slides**](https://github.com/AlaaKhaled12345/LTE_Anomaly_Detection/blob/main/Graduation_Presentation.pptx):  
+- [**Graduation_Presentation.pptx**](https://github.com/AlaaKhaled12345/LTE_Anomaly_Detection/blob/main/Graduation_Presentation.pptx):  
   Visual summary for business and technical audiences.
 
 
