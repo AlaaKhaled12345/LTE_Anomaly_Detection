@@ -20,21 +20,21 @@ Streamlit Web App:
 User-friendly interface for data exploration, anomaly detection, visualization, and reporting.
 
 # 🧑‍💻 Project Modules
-Data Preprocessing & Cleaning:
+# 1.Data Preprocessing & Cleaning:
 Handling missing values, filtering outliers, normalizing KPIs.
 
-Feature Engineering:
+# 2.Feature Engineering:
 Extracting temporal, rolling, and trend-based features from raw KPIs.
 
-Modeling & Detection:
+# 3.Modeling & Detection:
 Training and evaluating multiple ML/DL/statistical models, including fusion methods for robust results.
 
-Geo-Search Module:
+# 4.Geo-Search Module:
 Cluster and filter anomalies spatially using site metadata and frequency band information.
 
-LLM Summary Function:
+# 5.LLM Summary Function:
 Automated generation of business-oriented anomaly reports and technical recommendations.
 
-Web Application:
+# 6.Web Application:
 Streamlit-based dashboard for interactive use by network engineers and business users.
 
