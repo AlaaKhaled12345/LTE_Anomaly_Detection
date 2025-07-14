@@ -73,6 +73,16 @@ Map and analyze anomalies by region, site, cell, and frequency band.
 
 Generate interpretive summaries and business insights.
 
+## 📊 Example Results for Anomaly Detection module ( Prophet (60%) + STL + Z-score (40%) )
+
+<img width="1755" height="402" alt="image" src="https://github.com/user-attachments/assets/bcb40f75-eb19-4ab3-9d4f-194a31c547ac" />
+
+
+<img width="1755" height="347" alt="image" src="https://github.com/user-attachments/assets/a6de1a4f-09cf-48cd-965e-ac7c6d1de069" />
+
+
+
+
 ## 📊 Tools & Technologies
 - **Languages:** Python
 - **ML/Stats:** Prophet, STL, LOF, Autoencoder, Bi-LSTM
