@@ -66,5 +66,17 @@ Generate interpretive summaries and business insights.
 - **UI:** Streamlit
 - **Others:** Pandas, NumPy, Scikit-learn, TQDM
 
+### 📑 Documentation
+
+
+## 👩‍💼 Business Impact
+    Proactive network health monitoring
+
+Reduced mean-time-to-repair (MTTR)
+
+Actionable insights for engineers and managers
+
+Adaptable to other telco environments or KPIs
+
 
 
