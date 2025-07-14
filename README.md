@@ -6,19 +6,19 @@ This project presents a comprehensive Anomaly Detection System for LTE 4G networ
 ## 📈 Features
  - **Hybrid Anomaly Detection Models:**
    
-STL+Z-score, Prophet, Isolation Forest, LOF, LSTM/Bi-LSTM, Autoencoder, and ensemble fusion approaches.
+   STL+Z-score, Prophet, Isolation Forest, LOF, LSTM/Bi-LSTM, Autoencoder, and ensemble fusion approaches.
 
  - **Feature Engineering:**
    
-Includes lagged features, rolling statistics, and temporal patterns for enhanced model accuracy.
+   Includes lagged features, rolling statistics, and temporal patterns for enhanced model accuracy.
 
  - **Geo-Spatial Analysis:**
    
-Interactive map-based visualization of network sites, anomaly clusters, and KPI trends.
-
+   Interactive map-based visualization of network sites, anomaly clusters, and KPI trends.
+ 
  - **LLM-based Reports:**
    
-Automated anomaly summaries and actionable insights using Large Language Models.
+   Automated anomaly summaries and actionable insights using Large Language Models.
 
 - **Streamlit Web App:**
   
