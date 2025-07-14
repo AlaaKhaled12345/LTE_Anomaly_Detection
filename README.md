@@ -38,3 +38,26 @@ Automated generation of business-oriented anomaly reports and technical recommen
 # 6.Web Application:
 Streamlit-based dashboard for interactive use by network engineers and business users.
 
+# 🏗️ How It Works
+# 1.Prepare Data:
+
+Upload and clean LTE KPI datasets and metadata.
+
+# 2.Feature Engineering:
+
+Generate lagged, rolling, and trend features for each cell and KPI.
+
+# 3.Anomaly Detection:
+
+Apply and compare hybrid models (statistical, ML, DL, ensemble voting).
+
+# 4.Geo-Spatial Visualization:
+
+Map and analyze anomalies by region, site, cell, and frequency band.
+
+# 5.LLM-Based Reporting:
+
+Generate interpretive summaries and business insights.
+
+
+
