@@ -68,11 +68,11 @@ Generate interpretive summaries and business insights.
 
 ## 📄 Documentation
 
-- [**LTE_Anomaly.pdf**](https://github.com/AlaaKhaled12345/LTE_Anomaly_Detection/blob/main/LTE_Anomaly.pdf)
+- [**LTE_Anomaly.pdf**](https://github.com/AlaaKhaled12345/LTE_Anomaly_Detection/blob/main/LTE_Anomaly.pdf):
   
   Complete guide covering project approach, modeling details, and results.
 
-- [**Presentation Slides**](#):  
+- [**Presentation Slides**](https://github.com/AlaaKhaled12345/LTE_Anomaly_Detection/blob/main/Graduation_Presentation.pptx):  
   Visual summary for business and technical audiences.
 
 
