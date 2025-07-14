@@ -80,13 +80,16 @@ Generate interpretive summaries and business insights.
 
 ## 👏 Acknowledgments
 - **Supervisors:**
+- 
 Dr. Mahmoud Abdel Aziz, Eng. Meriham Rizk
 
 - **Special Thanks:**
+- 
 The Information Technology Institute (ITI) and everyone who supported this work
 
 ## 📫 Contact
 *Alaa Khaled Samir* [Email Me](alaa.khaled18201@gmail.com) | [LinkedIn](www.linkedin.com/in/alaa-khaled18) | [GitHub](https://github.com/AlaaKhaled12345)
+
 *Marwa Shaaban Abd Elhakim* [Email Me](marwaashaaban99@icloud.com) | [LinkedIn](https://www.linkedin.com/in/marwa-shaaban-abd-elhakim/) | [GitHub](https://github.com/Marwa-Shaaban)
 
 
