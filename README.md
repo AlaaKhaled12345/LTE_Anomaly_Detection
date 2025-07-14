@@ -98,4 +98,9 @@ The Information Technology Institute (ITI) and everyone who supported this work
 
 *Marwa Shaaban Abd Elhakim* [Email Me](marwaashaaban99@icloud.com) | [LinkedIn](https://www.linkedin.com/in/marwa-shaaban-abd-elhakim/) | [GitHub](https://github.com/Marwa-Shaaban)
 
+## 🏷️ Keywords
+LTE 4G Anomaly Detection Telecom Time Series Machine Learning Deep Learning KPI Streamlit Geo-Spatial LLM Python
+
+
+
 
