@@ -70,13 +70,13 @@ Generate interpretive summaries and business insights.
 
 
 ## 👩‍💼 Business Impact
-    Proactive network health monitoring
+- **Proactive network health monitoring**
 
-Reduced mean-time-to-repair (MTTR)
+- **Reduced mean-time-to-repair (MTTR)**
 
-Actionable insights for engineers and managers
+- **Actionable insights for engineers and managers**
 
-Adaptable to other telco environments or KPIs
+- **Adaptable to other telco environments or KPIs**
 
 
 
