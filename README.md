@@ -22,7 +22,7 @@ This project presents a comprehensive Anomaly Detection System for LTE 4G networ
 
 - **Streamlit Web App:**
   
-User-friendly interface for data exploration, anomaly detection, visualization, and reporting.
+   User-friendly interface for data exploration, anomaly detection, visualization, and reporting.
 
 ## 🧑‍💻 Project Modules
 ### 1.Data Preprocessing & Cleaning:
