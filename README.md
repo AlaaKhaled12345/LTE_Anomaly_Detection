@@ -80,11 +80,9 @@ Generate interpretive summaries and business insights.
 
 ## 👏 Acknowledgments
 - **Supervisors:**
-- 
 Dr. Mahmoud Abdel Aziz, Eng. Meriham Rizk
 
 - **Special Thanks:**
-- 
 The Information Technology Institute (ITI) and everyone who supported this work
 
 ## 📫 Contact
