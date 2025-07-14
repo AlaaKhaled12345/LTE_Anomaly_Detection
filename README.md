@@ -68,7 +68,7 @@ Generate interpretive summaries and business insights.
 
 ## 📄 Documentation
 
-- [**LTE_Anomaly.pdf**](C:\Users\SOUQ COMPUTER\Downloads\LTE_Anomaly.pdf):  
+- [**LTE_Anomaly.pdf**]([C:\Users\SOUQ COMPUTER\Downloads\LTE_Anomaly.pdf](https://github.com/AlaaKhaled12345/LTE_Anomaly_Detection/blob/main/LTE_Anomaly.pdf)):  
   Complete guide covering project approach, modeling details, and results.
 
 - [**Presentation Slides**](#):  
