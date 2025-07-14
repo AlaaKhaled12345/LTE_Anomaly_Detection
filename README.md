@@ -66,7 +66,14 @@ Generate interpretive summaries and business insights.
 - **UI:** Streamlit
 - **Others:** Pandas, NumPy, Scikit-learn, TQDM
 
-### 📑 Documentation
+## 📄 Documentation
+
+- [**LTE_Anomaly.pdf**](#):  
+  Complete guide covering project approach, modeling details, and results.
+
+- [**Presentation Slides**](#):  
+  Visual summary for business and technical audiences.
+
 
 
 ## 👩‍💼 Business Impact
