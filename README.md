@@ -59,12 +59,12 @@ Map and analyze anomalies by region, site, cell, and frequency band.
 
 Generate interpretive summaries and business insights.
 
-# 📊 Tools & Technologies
-# *Languages: Python
-# *ML/Stats: Prophet, STL, LOF, Autoencoder, Bi-LSTM
-# *Visualization: Matplotlib, Plotly, Folium
-# *UI: Streamlit
-# *Others: Pandas, NumPy, Scikit-learn, TQDM
+## 📊 Tools & Technologies
+- **Languages:** Python
+- **ML/Stats:** Prophet, STL, LOF, Autoencoder, Bi-LSTM
+- **Visualization:** Matplotlib, Plotly, Folium
+- **UI:** Streamlit
+- **Others:** Pandas, NumPy, Scikit-learn, TQDM
 
 
 
